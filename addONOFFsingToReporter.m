@@ -1,0 +1,5 @@
+
+allPossibleFields_rep.alphasing=allPossibleFields_ONOFF.alphasing;
+allPossibleFields_rep.betasing=allPossibleFields_ONOFF.betasing;
+allPossibleFields_rep.Icolmax=allPossibleFields_ONOFF.Icolmax;
+allPossibleFields_rep.Irowmax=allPossibleFields_ONOFF.Irowmax;
